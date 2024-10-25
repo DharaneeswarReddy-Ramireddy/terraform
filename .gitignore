@@ -8,6 +8,8 @@
 
 *.tfstate.backup
 
+# Ignore the Terraform lock file
+.terraform.lock.hcl
 
 
 # Ignore crash logs
