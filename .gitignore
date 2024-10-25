@@ -1,0 +1,28 @@
+# .gitignore
+
+
+
+# Ignore local Terraform state
+
+*.tfstate
+
+*.tfstate.backup
+
+
+
+# Ignore crash logs
+
+crash.log
+
+
+# Ignore the Terraform working directory
+
+.terraform/
+
+
+
+# Ignore sensitive files (optional)
+
+secret.tfvars
+
+
