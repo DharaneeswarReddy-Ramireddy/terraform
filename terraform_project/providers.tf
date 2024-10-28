@@ -11,7 +11,7 @@ terraform {
 
       source  = "hashicorp/aws"
 
-      version = "= 5.73.0"  # Use the exact version from the lock file
+      version = "= 5.73.0"  # exact version from the lock file
 
     }
 
